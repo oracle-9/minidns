@@ -1,0 +1,23 @@
+{
+    "name": "minidns",
+    "version": "0.1.0",
+    "dependencies": [
+        {
+            "name": "cxxopts",
+            "version>=": "3.0.0"
+        },
+        {
+            "name": "fmt",
+            "version>=": "9.1.0"
+        },
+        {
+            "name": "spdlog",
+            "version>=": "1.9.2"
+        },
+        {
+            "name": "tbb",
+            "version>=": "2021.7.0"
+        }
+    ],
+    "builtin-baseline": "cf1fda5443f2acfa976d5bda70c50fa22c26fe80"
+}
